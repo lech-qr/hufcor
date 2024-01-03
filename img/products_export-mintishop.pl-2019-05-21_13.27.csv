@@ -1,0 +1,1357 @@
+@id,@currency,@code_producer,@code_on_card,/producer@id,/producer@name,/category@id,/category@name[pol],/iai_category@id,/iai_category@path[pol],/unit@id,/unit@name[pol],/series@id,/series@name[pol],/price@gross,/price@net,/price@vat,/srp@gross,/srp@net,/srp@vat,/price_pos/price@gross,/price_pos/price@net,/price_pos/price@vat,/price_pos/price@size_id,/price_wholesale/site@gross,/price_wholesale/site@net,/price_wholesale/site@vat,/price_wholesale/site@id,/price_wholesale/site@size_id,/price_minimal/site@gross,/price_minimal/site@net,/price_minimal/site@vat,/price_minimal/site@id,/price_minimal/site@size_id,/price_retail/site@gross,/price_retail/site@net,/price_retail/site@vat,/price_retail/site@id,/price_retail/site@size_id,/pricecomparator_price/site@gross,/pricecomparator_price/site@net,/pricecomparator_price/site@vat,/pricecomparator_price/site@id,/pricecomparator_price/site@service_id,/auction_price/site@gross,/auction_price/site@net,/auction_price/site@vat,/auction_price/site@id,/auction_price/site@size_id,/auction_price/site@service_id,/auction_price/site@service_group_id,/auction_price/site@price_type,/sizes/size@id,/sizes/size@name,/sizes/size@code_producer,/sizes/size@code_external,/sizes/size@weight,/sizes/size@code,/sizes/size/price@gross,/sizes/size/price@net,/sizes/size/price@vat,/sizes/size/srp@gross,/sizes/size/srp@net,/sizes/size/srp@vat,/sizes/size/crossedout_retail_price@gross,/sizes/size/crossedout_retail_price@net,/sizes/size/crossedout_wholesale_price@gross,/sizes/size/crossedout_wholesale_price@net,/sizes/size/stock@size_id,/sizes/size/stock@stock_id,/sizes/size/stock@quantity,/sizes/size/stock@location_id,/sizes/size/stock@location_text_id,/card@url[pol],/delivery_time/mode@type,/delivery_time/time@days,/sum_in_basket@value,/images/large/image@url,/images/large/image@date_changed,/images/large/image@hash,/images/icons/icon@url,/images/icons/icon@date_changed,/images/icons/icon@hash,/images/icons/auction_icon@url,images/icons/group_icon@url,/associated_products/product@id,/associated_products/product@code_external,/hotspots/price@normal_price,/hotspots/price@wholesale_price,/hotspots/price@ending_date,/hotspots/price@enabled,/hotspots/price@promotion,/hotspots/price@discount,/hotspots/price@distinguished,/hotspots/price@special,/hotspots/site@id,/hotspots/site@manual_config,/hotspots/site/promotion@visible,/hotspots/site/discount@visible,/hotspots/site/distinguished@visible,/hotspots/site/special@visible,/enable_in_pos@enabled,/taxcode,/availability_profile@id,/availability_management@value,/loyalty_program/site@id,/loyalty_program/site@operation,/loyalty_program/site@clients,/loyalty_program/site@points,/advance@rate,/priority@level,/sell_by/retail@quantity,/sell_by/wholesale@quantity,/inwrapper@quantity,/visibility/site@visible,/visibility/price_comparator@visible,/availability/site@id,/availability/site@value,/attachments/audio/sound@url,/attachments/audio/sound@lang,/attachments/audio/sound@name,/attachments/document/doc@url,/attachments/document/doc@lang,/attachments/document/doc@name,/attachments/video/movie@url,/attachments/video/movie@lang,/attachments/video/movie@name,/attachments/other/file@url,/attachments/other/file@lang,/attachments/other/file@name,/attachments/image/picture@url,/attachments/image/picture@lang,/attachments/image/picture@name,/note,/warranty@id,/warranty@lang,/warranty@name,/navigation/site@id,/navigation/site/menu@id,/navigation/site/menu/item@textid[pol],/deliverer@id,/description/name[pol],/description/short_desc[pol],/description/long_desc[pol],/description/pricecomparator_name[pol],/description/auction_name[pol],/description/auction_long_desc[pol],/description/meta_title[pol],/description/meta_description[pol],/description/meta_keywords[pol],/description/name[eng],/description/short_desc[eng],/description/long_desc[eng],/description/pricecomparator_name[eng],/description/auction_name[eng],/description/auction_long_desc[eng],/description/meta_title[eng],/description/meta_description[eng],/description/meta_keywords[eng],/parameters/parameter@textid[pol],/parameters/parameter@id,/parameters/parameter@name[pol],/parameters/parameter@description[pol],/parameters/parameter@priority,/parameters/parameter@type,/parameters/parameter@distinction,/parameters/parameter@group_distinction,/parameters/parameter@projector_hide,/parameters/parameter@auction_template_hide,/parameters/parameter/value@parameter_id,/parameters/parameter/value@value_id,/parameters/parameter/value@name[pol],/parameters/parameter/value@description[pol],/parameters/parameter/value@priority,/prices_configuration_for_shops@value,/size_chart@id,/size_chart@name[pol],/prices_config/site@type,/prices_config/site@id,/pos_prices_config/site@type,/pos_prices_config/site@id,/group@id,/group/group_by_parameter@id,/group/group_by_parameter@name[pol],/group/group_by_parameter/product_value@id,/group/group_by_parameter/product_value@name[pol],/auction_descriptions/site@service_id,/auction_descriptions/site@service_group_id,/auction_descriptions/site@auction_title,/auction_descriptions/site@auction_subtitle,/auction_descriptions/site@auction_description
+"18858","PLN","","","1415963430","It's Skin","1214554043","PIELĘGNACJA TWARZY/Demakijaż i oczyszczanie","4780","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Produkty do mycia twarzy","0","szt.","0","","29.90","24.31","23.0","0.00","0.00","23.0","16.90","13.74","23.0","0","29.90","24.31","23.0","1","0","0.00","0.00","23.0","1","0","29.90","24.31","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","8809241887744","","195","18858-uniw","29.90","24.31","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","6","","","https://mintishop.pl/product-pol-18858-ITS-SKIN-Have-a-Banana-Cleansing-Foam-Pianka-do-mycia-twarzy-150ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/8/5/18858_1.jpg","2018-04-25 11:21:01","","https://mintishop.pl/data/gfx/icons/large/8/5/18858.jpg","2017-08-04 13:27:25","","https://mintishop.pl/data/gfx/icons/auctions/8/5/18858.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+2
+5","Pielęgnacja\Pielęgnacja koreańska\Demakijaż i oczyszczanie 
+Lato\Be Ready for the Summer\It's Skin
+DOMOWE SPA\AZJATYCKA PIELĘGNACJA\Demakijaż i oczyszczanie twarzy
+Serie\Kosmetyki azjatyckie","0","IT'S SKIN Have a Banana Cleansing Foam Pianka do mycia twarzy 150ml","pianka do mycia","<p>Odświeżająca pianka przeznaczona do codziennego oczyszczania skóry zawierająca wyciąg z banana.</p> <p>Pianka znakomicie oczyszcza skórę z pozostałości makijażu, zanieczyszczeń oraz nadmiaru sebum, nie powodując przy tym jej przesuszenia. Zawiera wyciąg z banana, który słynie z bardzo dobrych właściwości pielęgnujących. Miąższ banana znakomicie natłuszcza oraz intensywnie odżywia skórę, dzięki czemu odzyskuje ona dobrą kondycję oraz staje się niesamowicie miękka i przyjemna w dotyku. Dodatkowo, banan na również działanie antyoksydacyjne (neutralizuje wpływ wolnych rodników) oraz łagodzi podrażnienia.</p> <p>Po użyciu pianki skóra jest wyraźnie odprężona oraz przygotowana do dalszych kroków pielęgnacyjnych.</p> <p>Pianka jest przeznaczona do cery suchej oraz wrażliwej.</p> <div class=""minti-uzycie"">Nałóż niewielką ilość preparatu na lekko zwilżoną skórę twarzy, omijając okolice oczu. Dodaj odrobinę wody i delikatnie masuj skórę przez kilkanaście sekund, następnie dokładnie spłucz.</div> <div class=""minti-sklad"">Water, Stearic Acid, Glycerin, Potassium Hydroxide, Lauric Acid, Myristic Acid, Glycol Distearate, Propylene Glycol, Cocamidopropyl Betaine, Cocamide DEA, Glyceryl Stearate, PEG-100 Stearate, Beeswax, Butylene Glycol, Musa sapientum (banana) fruit Extract, Bambusa Arundinacea Stem Extract, Fragrance, Xanthan Gum, Caprylyl Glycol, Tetrasodium EDTA, Phenoxyethanol, Ethylhexylglycerin</div> <div class=""minti-pojemnosc"">150ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","same_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"20889","PLN","","","1500975147","A'pieu","1214554040","PIELĘGNACJA TWARZY/Maski","4774","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Maski i peelingi do twarzy","0","szt.","0","","12.90","10.49","23.0","0.00","0.00","23.0","15.00","12.20","23.0","0","12.90","10.49","23.0","1","0","0.00","0.00","23.0","1","0","12.90","10.49","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","8806185780285","","40","20889-uniw","12.90","10.49","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","29","","","https://mintishop.pl/product-pol-20889-Apieu-Coffee-Milk-One-Pack-Maska-do-twarzy-w-placie.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/9/8/20889_1.jpg","2018-04-25 11:24:34","","https://mintishop.pl/data/gfx/icons/large/9/8/20889.jpg","2017-07-25 11:46:35","","https://mintishop.pl/data/gfx/icons/auctions/9/8/20889.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1","1
+2
+2
+2
+5
+5","Pielęgnacja\Pielęgnacja koreańska\Maski i maski w płacie
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\MASKI
+PREZENT\PIELĘGNACJA
+DOMOWE SPA\AZJATYCKA PIELĘGNACJA\Maski i maski w płacie
+Serie\Kosmetyki azjatyckie
+Azjatyckie maski ","1336839470","A'pieu Coffee Milk One-Pack Maska do twarzy w płacie","maseczka do twarzy","<p>Mleczne maseczki w bawełnianej płachcie A’pieu Milk One Pack na bazie ekstraktów roślinnych. Proteiny mleka wygładzają, nawilżają oraz rozświetlają. Przywracają równowagę płaszcza lipidowego oraz wzmacniają naturalne funkcje ochronne skóry.</p> <p>Ujędrniająca maseczka dla skóry dojrzałej, która utraciła elastyczność. Kawa rewitalizuje oraz wygładza skórę przywracając jej zdrowy, młodzieńczy wygląd. Kolagen hydrolizowany ma działanie odżywcze, jednocześnie chroni skórę przed utratą wilgoci.</p> <p>Delikatna, hipoalergiczna płachta wykonana z 100% bawełny.<br />Długotrwałe nawilżenie bez uczucia lepkości.</p> <div class=""minti-uzycie""> <p>Stosować na uprzednio oczyszczoną oraz stonizowaną skórę.<br />Nałożyć maskę równomiernie na twarz, tak aby otwory na oczy, nos i usta były we właściwych miejscach.<br />Pozostawić na 15-20 minut.<br />Nadmiar esencji należy delikatnie wklepać w skórę.<br />*Wskazówka:<br />Stosować 2-3 razy w tygodniu.<br />Produkt nie wymaga spłukiwania.<br />Maseczki w płachcie są maseczkami jednorazowego użytku.</p> </div> <div class=""minti-sklad"">Water, Butylene Glycol, Glycerin, Mineral Oil, PEG-40 Stearate, Cetearyl Alcohol, Stearic Acid, Sorbitan Sesquioleate, Coffea Arabica (Coffee) Seed Extract, Milk Extract, Adenosine, Hydrolyzed Collagen, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Imperata Cylindrica Root Ferment Extract, Saccharomyces/Viscum Album (Mistletoe) Ferment Extract, Nelumbo Nucifera Callus Culture Extract, 1,2-Hexanediol, Sodium Hyaluronate, Ethylhexylglycerin, Caprylyl Glycol, Illicium Verum (Anise) Fruit Extract, Carbomer, Triethanolamine, Phenoxyethanol, Disodium EDTA, Fragrance</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","same_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"22279","PLN","","","1445000880","Resibo","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","0","","0","szt.","0","","69.00","56.10","23.0","0.00","0.00","23.0","28.59","23.24","23.0","0","69.00","56.10","23.0","1","0","0.00","0.00","23.0","1","0","69.00","56.10","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","150","22279-uniw","69.00","56.10","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","58","","","https://mintishop.pl/product-pol-22279-Resibo-Rozswietlajacy-krem-do-twarzy-30ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/9/7/22279_3.jpg
+https://mintishop.pl/data/gfx/pictures/large/9/7/22279_2.jpg
+https://mintishop.pl/data/gfx/pictures/large/9/7/22279_1.jpg","2018-12-05 10:21:00
+2018-12-05 10:21:01
+2018-12-05 10:21:01","","https://mintishop.pl/data/gfx/icons/large/9/7/22279.jpg","2018-12-10 08:55:15","","https://mintishop.pl/data/gfx/icons/auctions/9/7/22279.jpg","","15
+17
+18","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+5","Kosmetyki naturalne\Pielęgnacja twarzy\Kremy do twarzy
+Prezenty\Przewodnik prezentowy\Prezenty do 100 zł
+Winter Sale\Pielęgnacja
+Trendy\Kosmetyki wegańskie\Pielęgnacja twarzy
+Pielęgnacja\Pielęgnacja dopasowana do potrzeb\Skóra pozbawiona blasku
+Trendy\Makijaż\Glow
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+DOMOWE SPA\KOSMETYKI NATURALNE
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\KREMY DO TWARZY
+PREZENT\PIELĘGNACJA
+Serie\Kosmetyki naturalne","0","Resibo Rozświetlający krem do twarzy 30ml","krem do twarzy","<p>Krem rozświetlający daje efekt skóry pełnej naturalnego blasku przez cały dzień. Dzięki zawartości dwóch rodzajów miki, w odcieniach ciepłych i chłodnych, dopasowuje się do każdej karnacji, tworząc na skórze idealną taflę.</p> <p>Świetnie współgra z innymi kremami pielęgnacyjnymi, doskonale podkreśla makijaż i rysy twarzy. Idealny jako podkreślenie naturalnej karnacji czy opalenizny lub do rozświetlenia miejsc, które chcemy uwydatnić: szczytów policzków, czoła, czubka nosa itp. Biophilic™, innowacyjny emulgator, będący jednym ze składników kremu, wspiera proces nawilżania, dając jednocześnie efekt jedwabistej, drugiej skóry. <br />Krem świetnie sprawdza się pod makijaż, jak i na naturalnej, czystej skórze.</p> <p>Dla różnych rodzajów karnacji. Posiadaczki skóry suchej – na całą twarz, przy tłustej – na policzki/kości policzkowe. Każdemu typowi skóry nada zdrowy, pełen blasku wygląd.</p> <div class=""minti-uzycie"">Poczekaj, aż wchłonie się krem na dzień, a następnie nałóż krem rozświetlający. Dla rozświetlenia całej twarzy: niewielką ilość kremu rozprowadź na skórze i delikatnie wklep opuszkami palców. Dla podkreślenia wybranych miejsc nałóż odrobinę kremu na szczyty policzków, czoło, czubek nosa i inne części twarzy, które chcesz podkreślić.</div> <div class=""minti-sklad"">Aqua, Propanediol, Glycerin, Squalane, Mica, Aleurites Moluccana Seed Oil, Aloe Barbadensis Leaf Juice, Vitis Vinifera Seed Oil, Isoamyl Laurate, Caprylic/Capric Triglyceride, C12-C16 Alcohols, Titanium Dioxide (CI 77891), Coco Caprylate/Caprate, Polyhydroxystearic Acid, Salvia Sclarea Extract, Hydrogenated Lecithin, Cellulose Gum, Microcrystalline Cellulose, Cetearyl Alcohol, Sodium Phytate, Biosaccharide Gum-1, Palmitic Acid*, Silica, Xanthan Gum, Benzyl Alcohol, Dehydroacetic Acid, Citric Acid, Parfum, Benzyl Salicylate, Coumarin, Geraniol, Hexyl Cinnamal, Butylphenyl Methylpropional, Linalool</div> <div class=""minti-pojemnosc"">30ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"24135","PLN","","","1481105071","AVA","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","0","","0","szt.","0","","30.90","25.12","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","30.90","25.12","23.0","1","0","0.00","0.00","23.0","1","0","30.90","25.12","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5906323005492","","50","24135-uniw","30.90","25.12","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","37","","","https://mintishop.pl/product-pol-24135-AVA-KOKTAJL-MLODOSCI-Serum-do-twarzy-Time-Reverse-30ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/5/3/24135_1.jpg","2018-04-25 08:50:28","","https://mintishop.pl/data/gfx/icons/large/5/3/24135.jpg","2018-02-26 14:22:16","","https://mintishop.pl/data/gfx/icons/auctions/5/3/24135.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1","1
+1
+2
+2
+5","Pielęgnacja\Pielęgnacja twarzy\Serum
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+DOMOWE SPA\KOSMETYKI NATURALNE
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\SERUM
+Serie\Kosmetyki naturalne","0","AVA KOKTAJL MŁODOŚCI Serum do twarzy Time Reverse 30ml","serum do twarzy","<p>Niezwykle efektywne połączenie składników o kompleksowym działaniu odmładzającym. Pochodzący z czerwonych winogron, jeden z najsilniejszych naturalnych antyoksydantów – Resveratrol oraz głęboko nawilżający niskocząsteczkowy kolagen skutecznie przeciwdziałają starzeniu się skóry. Ten unikalny kompleks działa przeciwzapalnie, przedłuża żywotność komórek, chroni kolagen i elastynę, wymiata wolne rodniki. Koktajl w widoczny sposób spłyca i wygładza zmarszczki, rozjaśnia i zmniejsza przebarwienia. Kompleks witamin A, E i F poprawia nawilżenie, elastyczność i jędrność skóry.</p> <div class=""minti-uzycie"">Kilka kropli koktajlu nanieś na umytą i osuszoną skórę twarzy delikatnie wklepując. Okrężnymi ruchami wykonaj delikatny masaż. Stosuj rano i wieczorem samodzielnie lub pod ulubiony krem Ava.</div> <div class=""minti-sklad"">Aqua, Glycerin, Isopropyl Myristate, Hydrolyzed Collagen, PEG-40 Hydrogenated Castor Oil, Glycine Soja Oil, Pichia/Resveratrol Ferment Extract, Carthamus Tinctorius Seed Oil, Linoleic Acid, Tocopheryl Acetate, Retinyl Palmitate, Phenoxyethanol, Xanthan Gum, Disodium EDTA, Ethylhexylglycerin, Parfum</div> <div class=""minti-pojemnosc"">30ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"25007","PLN","","","1474276365","Klairs","1214554040","PIELĘGNACJA TWARZY/Maski","0","","0","szt.","0","","148.90","121.06","23.0","0.00","0.00","23.0","33.99","27.63","23.0","0","148.90","121.06","23.0","1","0","0.00","0.00","23.0","1","0","148.90","121.06","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","8809115024046","","210","25007-uniw","148.90","121.06","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1","","","https://mintishop.pl/product-pol-25007-Klairs-Freshly-Juiced-Vitamin-E-Mask-Odmladzajaca-maseczka-z-witamina-E-90ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/7/0/25007_1.jpg","2018-04-25 08:38:45","","https://mintishop.pl/data/gfx/icons/large/7/0/25007.jpg","2018-04-12 12:33:50","","https://mintishop.pl/data/gfx/icons/auctions/7/0/25007.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","9","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+2
+2","Pielęgnacja\Pielęgnacja koreańska\Kremy do twarzy i pod oczy
+Pielęgnacja\Pielęgnacja koreańska\Maski i maski w płacie
+DOMOWE SPA\AZJATYCKA PIELĘGNACJA\Maski i maski w płacie
+DOMOWE SPA\AZJATYCKA PIELĘGNACJA\Kremy do twarzy i pod oczy","0","Klairs Freshly Juiced Vitamin E Mask Odmładzająca maseczka z witaminą E 90ml","maska do twarzy","<p>Wielozadaniowy produkt, który może być używany jako klasyczna maseczka, maseczka nocna lub codzienny krem pielęgnujący oparty na potężnym antyoksydancie - witaminie E o działaniu rozświetlającym, odmładzającym i ujędrniającym.</p> <p>Używaj w ciągu dnia, aby chronić skórę przed szkodliwym działaniem promieni UV oraz wieczorem, aby zregenerować skórę i działać przeciwzmarszczkowo.</p> <p>Maseczka o kremowej formule zamienia się w bogatą esencję przywierając do skóry, co pozwala zamknąć i utrzymać nawilżenie przez długi czas.</p> <div class=""minti-uzycie""> <p>maseczka: nałóż niewielką ilość produktu na skórę twarzy i zmyj po 15-20 minutach. <br />maseczka nocna: wieczorem nałóż odpowiednią ilość produktu na skórę twarzy i zmyj po przebudzeniu ciepłą wodą. <br />krem nawilżający: Nałóż niewielką ilość produktu na twarz i delikatnie wklep opuszkami palców do całkowitej absorpcji.</p> </div> <div class=""minti-sklad"">Water, Glycerin, Butylene Glycol, Tocopheryl Acetate, Niacinamide, Sodium Hyaluronate, Carrageenan, Gellan Gum, Betaine, Algin, Mannan, Ceramide NP, PEG-60 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Arginine, Ethylhexylglycerin, Centella Asiatica Extract, Rubus Fruticosus (Blackberry) Fruit Extract, Salicornia Herbacea Extract, Phragmites Communis Extract, Adenosine, Lavandula Angustifolia (Lavender) Oil, Eucalyptus Globulus Leaf Oil, Pelargonium Graveolens Flower Oil, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Cananga Odorata Flower Oil</div> <div class=""minti-pojemnosc"">90ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Feed\maj_pielegnacja
+Ilość - limit\50","1343136042
+1343136055
+1343136078","stan
+Feed
+Ilość - limit","
+
+","1
+2
+3","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136055
+1343136078","1343136043
+1343137498
+1343136079","nowy
+maj_pielegnacja
+50","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"26376","PLN","","","1529324012","Derma","1214554046","PIELĘGNACJA CIAŁA/Balsamy, kremy, olejki","0","","0","szt.","0","","55.90","45.45","23.0","0.00","0.00","23.0","12.99","10.56","23.0","0","55.90","45.45","23.0","1","0","0.00","0.00","23.0","1","0","55.90","45.45","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5709954016406","","240","26376-uniw","55.90","45.45","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1","","","https://mintishop.pl/product-pol-26376-Derma-Sun-Kids-Krem-przciwsloneczny-dla-dzieci-SPF30-200ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/6/7/26376_1.jpg","2018-06-19 12:25:16","","https://mintishop.pl/data/gfx/icons/large/6/7/26376.jpg","2018-06-19 11:40:50","","https://mintishop.pl/data/gfx/icons/auctions/6/7/26376.jpg","","","","","","","yes","no","no","no","no","1","yes","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+1
+2
+2","Pielęgnacja\Pielęgnacja ciała\Balsamy i oleje
+Pielęgnacja\Pielęgnacja ciała\Ochrona przeciwsłoneczna
+Lato\Pielęgnacja ciała\Ochrona przeciwsłoneczna
+Pielęgnacja\Mama i Dziecko\Pielęgnacja dziecka\Ochrona przeciwsłoneczna
+Sale\Pielęgnacja\Ochrona przeciwsłoneczna
+Trendy\Pielęgnacja\Ochrona przed słońcem 
+TWARZ I CIAŁO\PIELĘGNACJA CIAŁA
+Sale/outlet\Pielęgnacja\Ochrona przeciwsłoneczna","0","Derma Sun Kids Krem przciwsłoneczny dla dzieci SPF30 200ml","krem przeciwsłoneczny","<p>Derma Sun Kids Krem słoneczny dla dzieci SPF 30 - to wysoka ochrona przed promieniami UVA i UVB dla dzieci i dorosłych, również dla osób z bardzo wrażliwą skórą i skłonnością do alergii i AZS. NIE ZAWIERA FILTÓW PRZENIKAJĄCYCH! To wysoce wodoodporny i hipoalergiczny produkt. Zapewnia on ochronę przed promieniami, zgodną z najnowszymi zaleceniami Unii Europejskiej dotyczącymi optymalnej ochrony przeciwsłonecznej. Produkt łatwo się wchłania, a skóra po jego użyciu jest miękka, delikatna i chroniona przed przesuszeniem. Bez substancji zapachowych, parabenów ani barwników, co minimalizuje ryzyko wystąpienia alergii i reakcji skórnych.</p> <p>Produkt otrzymał, aż cztery certyfikaty, które są gwarancją bezpieczeństwa i najwyższej jakości:<br />Asthma-Allergy Denmark i Allergy Certified - dla certyfikowanych produktów hipoalergicznych, wolnych od alergenów i jakichkolwiek szkodliwych substancji. Bez zapachów, bez barwników, bez parabenów. <br />Nordic Ecolabel – dla certyfikowanych produktów przyjaznych środowisku i nie testowanych na zwierzętach.</p> <div class=""minti-uzycie"">Przed ekspozycją na słońce należy rozprowadzić balsam na twarz i resztę ciała. Powtarzać aplikację po wyjściu z wody. Przed założeniem ubrania należy poczekać, aż balsam całkowicie się wchłonie. Dla optymalnej ochrony, należy stosować odpowiednią ilość balsamu (wielkości pięści dziecka) i powtarzać aplikację.</div> <div class=""minti-sklad"">Aqua, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glyceryl Stearate, Glycerin, Diethylhexyl Butamido Triazone, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid</div> <div class=""minti-pojemnosc"">200ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"27100","PLN","","","1533039808","tołpa.","1214554043","PIELĘGNACJA TWARZY/Demakijaż i oczyszczanie","0","","0","szt.","0","","32.99","26.82","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","32.99","26.82","23.0","1","0","0.00","0.00","23.0","1","0","32.99","26.82","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5902719410512","","70","27100-uniw","32.99","26.82","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1652","","","https://mintishop.pl/product-pol-27100-tolpa-dermo-face-sebio-Peeling-3-enzymy-40-ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/0/0/27100_2.jpg","2018-08-10 09:29:36","","https://mintishop.pl/data/gfx/icons/large/0/0/27100.jpg","2018-12-27 09:50:07","","https://mintishop.pl/data/gfx/icons/auctions/0/0/27100.jpg","","","","","","","yes","no","no","no","no","1","yes","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","9999","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1","1
+1
+1
+1
+2
+2","Pielęgnacja\Pielęgnacja twarzy\Demakijaż i oczyszczanie
+Pielęgnacja\Pielęgnacja twarzy\Peelingi
+Prezenty\Przewodnik prezentowy\Pielęgnacyjne hity
+Pielęgnacja\Bestsellery ❤
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\OCZYSZCZANIE
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\PEELINGI","1336839486","tołpa. dermo face, sebio. Peeling 3 enzymy, 40 ml","peeling do twarzy","<p>Działa jak peeling, ale nie zawiera drobinek ani kwasów AHA. Usuwa zrogowaciały naskórek dzięki trzem aktywnym enzymom, bez pocierania i dodatkowych podrażnień. Głęboko oczyszcza pory, zapobiega ich bloko- waniu i zmniejsza ilość zaskórników. Reguluje rogowacenie naskórka i wygładza jego powierzchnię. Eliminuje nawracające i uporczywe niedoskonałości. Pozostawia skórę odnowioną, nawilżoną, matową i bez zaskórników..<p/> <div class=""minti-pojemnosc""> <p />40 ml<p /></div> <div class=""minti-uzycie""> <p>Nanieś peeling na oczyszczoną twarz, omijając okolice oczu i pozostaw grubą warstwę. Po 10 min. rozmasuj delikatnie zwilżonymi dłońmi zaczynając od szyi w górę, poprzez brodę, policzki, nos i czoło. Następnie spłucz letnią wodą. Stosuj 2 razy w tygodniu.<p /></div> <div class=""minti-sklad""> <p>torf tołpa.® , bromelaina z ananasa, papaina z papai, mikrokapsułowana keratynaza, gliceryna   składniki (INCI) Aqua, Glycerin, Propylene Glycol, Peat Extract, Papain, Bromelain, Algin, r-Bacillus Licheniformis Keratinase, Carbomer, Tetrasodium EDTA, Xanthan Gum, Sodium Hydroxide, Parfum, Tromethamine, Sodium Chloride, Calcium Chloride, Ethylhexylglycerin, Phenoxyetanol, Caprylyl Glycol.</p></div> ","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Sm\bestseller
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343137344
+1343136055","stan
+Ilość - limit
+Sm
+Feed","
+
+
+","0
+1
+2
+3","parameter
+parameter
+parameter
+parameter","n
+n
+n
+n","n
+n
+n
+n","n
+n
+n
+n","n
+n
+n
+n","1343136042
+1343136078
+1343137344
+1343136055","1343136043
+1343136079
+1343137345
+1343137498","nowy
+50
+bestseller
+maj_pielegnacja","
+
+
+","0
+0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"27512","PLN","","","1534768460","Pibu","1214554040","PIELĘGNACJA TWARZY/Maski","0","","0","szt.","0","","27.00","21.95","23.0","0.00","0.00","23.0","19.80","16.10","23.0","0","27.00","21.95","23.0","1","0","0.00","0.00","23.0","1","0","27.00","21.95","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","8809511984678","","45","27512-uniw","27.00","21.95","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","57","","","https://mintishop.pl/product-pol-27512-PIBU-BEAUTY-Green-Tea-Purifying-Clay-Mask.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/2/1/27512_2.jpg
+https://mintishop.pl/data/gfx/pictures/large/2/1/27512_1.jpg
+https://mintishop.pl/data/gfx/pictures/large/2/1/27512_3.jpg","2018-08-21 10:22:19
+2018-08-21 10:22:20
+2018-08-21 10:22:19","","https://mintishop.pl/data/gfx/icons/large/2/1/27512.jpg","2018-11-20 23:50:06","","https://mintishop.pl/data/gfx/icons/auctions/2/1/27512.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+1
+2
+2
+5","Pielęgnacja\Pielęgnacja koreańska\Maski i maski w płacie
+Pielęgnacja\Pielęgnacja twarzy\Maski
+Prezenty\Przewodnik prezentowy\Wybór makijażystów
+Prezenty\Przewodnik prezentowy\Wyłącznie w MINTI
+Prezenty\Przewodnik prezentowy\Pielęgnacyjne hity
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+DOMOWE SPA\KOSMETYKI NATURALNE
+DOMOWE SPA\AZJATYCKA PIELĘGNACJA\Maski i maski w płacie
+Serie\Kosmetyki naturalne","1336839427","PIBU BEAUTY Green Tea Purifying Clay Mask","maska w płacie","<p>Oczyszczająca maska glinkowa z zieloną herbatą to skuteczny kosmetyk stworzony z myślą o cerach ze skłonnością do powstawania niedoskonałości. Dzięki glince kosmetycznej, wchłania nadmiar sebum, oczyszcza pory i zapobiega błyszczeniu się, nadając skórze zdrowy wygląd. Jeśli szukasz sposobu na szybkie oczyszczenie i zwężenie porów bez efektu wysuszenia - sięgnij po naszą maseczkę i pozwól jej działać!</p> <p>Polecana dla:  Cery tłustej z niedoskonałościami, rozszerzonymi porami i zaskórnikami.</p> <div class=""minti-uzycie""> 1. Umyj i osusz skórę twarzy. Wyjmij maskę z opakowania. 2. Zacznij od górnej części. Usuń folię ochronną (cienką) i umieść górną część na twarzy, dopasowując do położenia oczu. Następnie usuń drugą stronę folii (grubą). Wygładź i delikatnie dopasuj maskę, aby zapewnić idealne przyleganie. Podobnie postąp z drugą, dolną częścią maski, lekko nakładając ją na górną część. 3. Po 30-40 min, kiedy maska będzie sucha i sztywna, zdejmij ją zaczynając od dołu. 4. Przemyj twarz wodą, aby usunąć pozostałości produktu. Następnie użyj swojego ulubionego kremu nawilżającego. Przed użyciem nałóż krem ​​na okolice brwi i ust, aby ułatwić usunięcie maseczki. Im dłużej trzymasz maskę na twarzy, tym lepsze efekty uzyskasz. Stosuj 1-2 razy w tygodniu. Produkt należy zużyć zaraz po otwarciu. Maseczka tylko do użytku zewnętrznego. Jeśli zaobserwujesz nadwrażliwość lub podrażnienie skóry, natychmiast przerwij stosowanie. Unikaj kontaktu z oczami, a jeśli tego dojdzie, dokładnie opłucz je wodą. Przechowuj poza zasięgiem dzieci. Nie przechowuj maseczki w miejscu działania promieni słonecznych ani wysokich temperatur.</p></div> <div class=""minti-sklad""> <p>Aqua (Water), Kaolin, Butylene Glycol, Polysorbate 20, Bentonite, Polyglyceryl-3 Methylglucose Distearate, Illite, Sea Silt, Sodium Polyacrylate, Hydrogenated Polydecene, Betaine, Magnesium Aluminum Silicate, Glyceryl Stearate SE, Methyl Glucose Sesquistearate, Citric Acid, Gardenia Florida Fruit Extract, Xanthan Gum, Polyvinyl Alcohol, Trideceth-6, Ethylhexylglycerin, Dextrin, Camellia Sinensis Leaf Extract(100 ppm), Melaleuca Alternifolia (Tea Tree) Leaf Extract, Caprylyl Glycol, Acetyl Hexapeptide-8, Disodium EDTA, Phenoxyethanol, Parfum.</p></div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","same_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"29041","PLN","","","1507891772","Lumene","1214554040","PIELĘGNACJA TWARZY/Maski","0","","0","szt.","0","","119.99","97.55","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","119.99","97.55","23.0","1","0","0.00","0.00","23.0","1","0","119.99","97.55","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","6412600817157","","140","29041-uniw","119.99","97.55","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1","","","https://mintishop.pl/product-pol-29041-Lumene-Nutri-recharging-Purifying-Peat-Mask-Oczyszczajaca-maska-do-twarzy-75ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/1/4/29041_1.jpg","2018-11-08 12:29:04","","https://mintishop.pl/data/gfx/icons/large/1/4/29041.jpg","2018-11-08 11:37:46","","https://mintishop.pl/data/gfx/icons/auctions/1/4/29041.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1","1
+2","Pielęgnacja\Pielęgnacja twarzy\Maski
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\MASKI","1336839486","Lumene Nutri-recharging Purifying Peat Mask Oczyszczająca maska do twarzy 75ml","maska do twarzy","<p>Ciemnobrązowa maska do twarzy tworzy gęstą pastę z ziemistymi cząstkami, aby głęboko oczyścić i szybko przywrócić równowagę skórze. Zaweiera minerały takie jak: cynk, miedź i magnez, dzięki którym koi, wygładza i oczyszcza skórę twarzy.</p> <div class=""minti-sklad"">AQUA (WATER), PEAT, KAOLIN, BETAINE, CETEARYL ALCOHOL, GLYCERIN, BUTYROSPERMUM PARKII (SHEA) BUTTER, OCTYLDODECYL MYRISTATE, AVENA SATIVA (OAT) KERNEL OIL, CETYL ALCOHOL, CETEARYL GLUCOSIDE, INONOTUS OBLIQUUS (CHAGA) EXTRACT, EMPETRUM NIGRUM (BLACK CROWBERRY) FRUIT JUICE, RIBES NIGRUM (BLACK CURRANT) SEED OIL, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PROPANEDIOL, HYDROXYETHYLCELLULOSE, XANTHAN GUM, ALCOHOL, SODIUM PHYTATE, POTASSIUM SORBATE, LIMONENE, GERANIOL, LINALOOL, CITRONELLOL, PARFUM (FRAGRANCE)</div> <div class=""minti-pojemnosc"">75ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","same_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"29220","PLN","","","1406015772","GLOV","1214554043","PIELĘGNACJA TWARZY/Demakijaż i oczyszczanie","4780","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Produkty do mycia twarzy","0","szt.","0","","69.00","56.10","23.0","0.00","0.00","23.0","49.90","40.57","23.0","0","69.00","56.10","23.0","1","0","0.00","0.00","23.0","1","0","69.00","56.10","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","150","29220-uniw","69.00","56.10","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","5","","","https://mintishop.pl/product-pol-29220-GLOV-Zestaw-do-demakijazu-Beauty-Bomb-Set.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/0/2/29220_2.jpg
+https://mintishop.pl/data/gfx/pictures/large/0/2/29220_1.jpg","2018-11-15 12:16:22
+2018-11-15 12:16:22","","https://mintishop.pl/data/gfx/icons/large/0/2/29220.jpg","2018-11-15 11:18:28","","https://mintishop.pl/data/gfx/icons/auctions/0/2/29220.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+2
+2
+2","Pielęgnacja\Pielęgnacja twarzy\Akcesoria do oczyszczania twarzy
+Prezenty\Przewodnik prezentowy\Zestawy prezentowe
+Prezenty\Przewodnik prezentowy\Dla Niej
+Prezenty\Przewodnik prezentowy\Prezenty do 100 zł
+Trendy\Kosmetyki wegańskie\Pielęgnacja twarzy
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\OCZYSZCZANIE
+PREZENT\ZESTAWY PREZENTOWE
+PREZENT\CHRISTMAS\PREZENT DO 100 ZŁ","0","GLOV Zestaw do demakijażu Beauty Bomb Set","demakijaż","<p>Beauty Bomb Set to produkty do demakijażu dla każdej kobiety - opaska na włosy w kształcie króliczych uszu i rękawiczka GLOV Comfort do mycia twarzy.</p> <p>Te urocze królicze uszy mają supermoc trzymania włosów z dala od Twojej twarzy, kiedy najbardziej tego potrzebujesz. Zrób demakijaż i nałóż ulubioną maseczkę bez obaw, że się ubrudzisz.</p> <p>Umiejętności GLOV Comfort są równie potężne, jak jego powierzchnia. Dokładnie zmyjesz nawet najcięższy makijaż, a Twoja skóra będzie ożywiona, wygładzona i perfekcyjnie oczyszczona.<br />Największa z rękawiczek do demakijażu GLOV o unikalnym, kwadratowym kształcie. System czterech rogów pozwala na precyzyjne usunięcie kosmetyków takich jak eyeliner lub wodoodporny tusz do rzęs. Doskonale sprawdza się również przy zmywaniu baz, korektorów i podkładów. Użyj GLOV Comfort wieczorem, a rano wstaniesz bez śladów kosmetyków wokół oczu. Dokładnie oczyszcza twarz z makijażu, zanieczyszczeń i nadmiaru sebum przy użyciu tylko wody. Dodatkowo lekko peelinguje skórę, pozostawiając ją odświeżoną, lekką i matową. Jeśli malujesz się często i lubisz podkreślać swoją osobowość wyrazistym i trwałym makijażem, GLOV Comfort będzie dla Ciebie idealny.</p>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","same_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"29416","PLN","","","1484912632","MIYA","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","0","","0","szt.","0","","34.90","28.37","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","34.90","28.37","23.0","1","0","0.00","0.00","23.0","1","0","34.90","28.37","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","120","29416-uniw","34.90","28.37","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","49","","","https://mintishop.pl/product-pol-29416-MIYA-SecretGLOW-Rozswietlajacy-krem-z-witaminami-all-in-one-30ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/6/1/29416_1.jpg","2018-11-23 11:26:33","","https://mintishop.pl/data/gfx/icons/large/6/1/29416.jpg","2018-11-23 10:29:20","","https://mintishop.pl/data/gfx/icons/auctions/6/1/29416.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+1
+2
+2
+5","Kosmetyki naturalne\Pielęgnacja twarzy\Kremy do twarzy
+Prezenty\Przewodnik prezentowy\Pielęgnacyjne hity
+Trendy\Kosmetyki wegańskie\Pielęgnacja twarzy
+Pielęgnacja\Pielęgnacja dopasowana do potrzeb\Skóra pozbawiona blasku
+Trendy\Pielęgnacja\Produkty z witaminą C 
+Trendy\Pielęgnacja\W podróży 
+DOMOWE SPA\KOSMETYKI NATURALNE
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\KREMY DO TWARZY
+Serie\Kosmetyki naturalne","0","MIYA SecretGLOW Rozświetlający krem z witaminami all-in-one 30ml","krem do twarzy","<p>Wzbogacony w witaminy C, E, B3, prowitaminę B5, kwas hialuronowy, ekstrakt z kwiatów peonii, pielęgnacyjne olejki oraz delikatnie opalizujące drobinki miki.</p> <p>Działa wszechstronnie, na wiele sposobów, all-in-one:<br />Rozświetlający krem pod oczy: <br />Wygładza skórę i zmarszczki wokół oczu – Nawilża i poprawia elastyczność – Zmniejsza widoczność cieni pod oczami – Rozświetla spojrzenie.<br />Rozświetlający krem do twarzy i dekoltu: <br />Poprawia nawilżenie – Upiększa, rozjaśnia, wygładza – Zwiększa miękkość i elastyczność – Redukuje ślady zmęczenia, skóra wygląda na zrelaksowaną i wypoczętą.<br />Baza pod makijaż: <br />Przygotowuje skórę do nałożenia makijażu – Podkład dobrze i równomiernie się rozprowadza, nie roluje, nie pozostawia w załamaniach skóry.<br />Ekspresowa maseczka bankietowa: <br />Nadaje skórze miękkość i blask już w momencie aplikacji – Ekspresowo nawilża, upiększa, rozświetla.</p> <p>Delikatna, nietłusta formuła. Bez silikonów, parafiny, PEG-ów, olejów mineralnych, parabenów. Przebadany dermatologicznie i okulistycznie. Odpowiedni dla wszystkich typów skóry, także wrażliwej . Nie zapycha porów. <br />Nie testowany na zwierzętach. Wegański.</p> <div class=""minti-sklad"">Aqua (Water), Prunus Armeniaca (Apricot) Kernel Oil, Macadamia Ternifolia Seed Oil, Decyl Oleate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Sodium Polyacrylate,Tocopheryl Acetate, Panthenol, Glycerin, Paeonia Officinalis Flower Extract, Sodium Hyaluronate, Hyaluronic Acid, Niacinamide, Sodium Ascorbyl Phosphate, Xanthan Gum, Methylpropanediol, Caprylyl Glycol, Mica, CI77891 (Titanium Dioxide), CI77491 (Iron Oxides), Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Sodium Phytate, Alcohol, Parfum (Fragrance).</div> <div class=""minti-pojemnosc"">30ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Feed\maj_pielegnacja
+Ilość - limit\50","1343136042
+1343136055
+1343136078","stan
+Feed
+Ilość - limit","
+
+","0
+2
+3","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136055
+1343136078","1343136043
+1343137498
+1343136079","nowy
+maj_pielegnacja
+50","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"29741","PLN","","","1445433297","Make Me Bio","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","4786","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Toniki do twarzy","0","szt.","0","","44.90","36.50","23.0","0.00","0.00","23.0","28.59","23.24","23.0","0","44.90","36.50","23.0","1","0","0.00","0.00","23.0","1","0","44.90","36.50","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","135","29741-uniw","44.90","36.50","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","6","","","https://mintishop.pl/product-pol-29741-Make-Me-Bio-Serum-do-twarzy-GARDEN-ROSES-15ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/1/4/29741_1.jpg","2018-12-11 15:16:45","","https://mintishop.pl/data/gfx/icons/large/1/4/29741.jpg","2018-12-11 14:53:07","","https://mintishop.pl/data/gfx/icons/auctions/1/4/29741.jpg","","15
+17
+18","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","10","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+2
+5","Kosmetyki naturalne\Pielęgnacja twarzy\Serum do twarzy
+Pielęgnacja\Pielęgnacja twarzy\Serum
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\SERUM
+Serie\Kosmetyki naturalne","0","Make Me Bio Serum do twarzy GARDEN ROSES 15ml","serum do twarzy","<p>Lekkość płatków róży. Silne odżywienie i nawilżenie.</p> <p>Przeznaczona dla: Sucha i wrażliwa<br />Efekty: Skóra zregenerowana, nawilżona i pełna blasku.</p> <p>Składniki aktywne:<br />- Woda różana działa oczyszczająco i łagodząco. Dzięki swoim wyjątkowym właściwościom tonizującym, nadaje skórze blask, odżywia i przywraca równowagę skórze. Woda różana łagodzi stany zapalne i podrażnienia, otulając skórę kwiatowym zapachem.<br />- Kwas hialuronowy działa regeneracyjnie i przeciwzmarszczkowo. Ten składnik występujący naturalnie w naszym organizmie jest w pełni bezpieczny dla zdrowia i bardzo skuteczny w działaniu zewnętrznym. Wypełnia zmarszczki, poprawia jędrność skóry, chroni przed wolnymi rodnikami i działaniem promieni UV, a także poprawia nawilżenie skóry.<br />- Fitosterole roślinne działają ujędrniająco i regenerująco. Dzięki zdolności stymulowania syntezy kolagenu wygładzają drobne zmarszczki, napinają skórę i nawilżają.<br />Jednocześnie wykazują silne działanie przeciwzapalne, przeciwbakteryjne i łagodzące.<br />- Olej z orzechów makadamia działa regenerująco i antyoksydacyjne. Olejek wykazuje biozgodność ze skórą, dzięki czemu łatwo się wchłania, nawilża i wygładza, nie wywołując reakcji alergicznych. Doskonale uelastycznia skórę i chroni przed negatywnym działaniem wolnych rodników i promieniami UV.<br />- Olej ze słodkich migdałów działa nawilżająco i ujędrniająco. Dzięki bogactwu witamin i składników mineralnych skutecznie regeneruje, chroni przed utratą wody z komórek i opóźnia procesy starzenia się skóry. Dodatkowo jego przyjemny, orzechowy zapach koi zmysły.<br />- Olejek jojba działa normalizująco i pielęgnująco. Struktura olejku zbliżona jest do sebum wydzielanego przez skórę, dzięki czemu wytwarza on naturalną barierę ochronną na jej powierzchni, która w przypadku skóry suchej jest na bardzo niskim poziomie. Dzięki olejkowi, skóra jest miękka, jędrna i optymalnie nawilżona.<br />- Sok z liści aloesu działa ściągająco i regenerująco. Wygładza i uelastycznia skórę. Jednocześnie wspomaga oczyszczanie cery oraz walkę z niedoskonałościami.</p> <div class=""minti-uzycie"">Kilka kropli serum nanieś na oczyszczoną skórę twarzy i szyi, delikatnie wklepując. Stosuj rano i wieczorem pod/lub zamiast kremu.</div> <div class=""minti-sklad"">Rosa Damascena (Róża Damasceńska) Flower Water*, Aqua (Woda), Glycerin (Gliceryna), Simmondsia Chinensis (Jojoba) Seed Oil*, Prunus Amygdalus Dulcis (Słodkie Migdały) Oil*, Macadamia Ternifolia (Makadamia) Seed Oil*, Sodium Hyaluronate, Aloe Barbadensis (Aloes) Leaf Juice Powder*, Phytosterols, Xanthan Gum, Propanediol, Benzyl Alcohol, Dehydroacetic Acid, Citronellol**, Geraniol** * z upraw organicznych ** naturalnie występujący w olejkach eterycznych</div> <div class=""minti-pojemnosc"">15ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"29759","PLN","","","1519723384","Nature Queen","1214554043","PIELĘGNACJA TWARZY/Demakijaż i oczyszczanie","0","","0","szt.","42","77 Bestsellerów ","24.90","20.24","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","24.90","20.24","23.0","1","0","0.00","0.00","23.0","1","0","24.90","20.24","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","210","29759-uniw","24.90","20.24","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","198","","","https://mintishop.pl/product-pol-29759-Nature-Queen-Pianka-myjaca-do-twarzy-175ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/9/5/29759_1.jpg","2018-12-13 18:20:30","","https://mintishop.pl/data/gfx/icons/large/9/5/29759.jpg","2018-12-15 08:51:44","","https://mintishop.pl/data/gfx/icons/auctions/9/5/29759.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","9","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+2
+2
+5","Kosmetyki naturalne\Pielęgnacja twarzy\Demakijaż i oczyszczanie twarzy
+Pielęgnacja\Pielęgnacja twarzy\Demakijaż i oczyszczanie
+Prezenty\Przewodnik prezentowy\77 Bestsellerów 
+Kosmetyki naturalne\Bestsellery ❤
+Lato\Kosmetyczka na lato
+DOMOWE SPA\KOSMETYKI NATURALNE
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\OCZYSZCZANIE
+Serie\Kosmetyki naturalne","1336839486","Nature Queen Pianka myjąca do twarzy 175ml","pianka do twarzy","<p>Bardzo łagodna pianka o działaniu pielęgnacyjnym i oczyszczającym. Zawarty ekstrakt z ogórka wykazuje działanie oczyszczające, a ekstrakt z chabra bławatka działa rozjaśniająco na cienie pod oczami. Kiełki pszenicy wspomagają walkę z wolnymi rodnikami. Pianka delikatnie napina naskórek i wygładza drobne zmarszczki. Ekstrakt z mydlnicy lekarskiej ułatwia przenikanie składników aktywnych w głąb skóry. Regularne stosowanie pianki pobudzi produkcję kolagenu dzięki zawartości ekstraktu z wąkrotki azjatyckiej, a ekstrakt z jaśminu i alantoina ukoi nawet najbardziej wrażliwą, wymagającą skórę. Dodatkowo zawarty kwas mlekowy delikatnie usunie martwy naskórek a także zadziała antybakteryjne i przeciwstarzeniowo, reguluje pH skóry.<br />Przeznaczona dla każdego typu skóry.</p> <p>Składniki aktywne: Ekstrakt z ogórka, ekstrakt z chabra bławatka, ekstrakt z kiełków pszenicy, ekstrakt z mydlnicy lekarskiej, ekstrakt z wąkrotki azjatyckiej, ekstrakt z jaśminu, witamina B5, alantoina, kwas mlekowy.</p> <p>Nie zawiera SLS i SLES.</p> <div class=""minti-uzycie"">Nanieść niewielką ilość pianki na wilgotną skórę twarzy ,wetrzeć okrężnymi ruchami, następnie spłukać.</div> <div class=""minti-sklad"">Aqua, Cocamidopropyl Betaine, Glycerin, Coco Glucoside, Phenethyl Alcohol, Cucumis Sativus Fruit, Centaurea Cyanus Flower Extract, Triticum Vulgare Extract, Panthenol, Jasminum Officinale Flower/ Leaf Extract, Saponaria Officinalis Extract, Centella Asiatica Extract, Lactic Acid, Allantoin, Disodium EDTA</div> <div class=""minti-pojemnosc"">175ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"30380","PLN","","","1548338672","EO LABORATORIE","1214554043","PIELĘGNACJA TWARZY/Demakijaż i oczyszczanie","4742","Zdrowie i uroda > Higiena osobista > Kosmetyki > Makijaż > Makijaż oka > Odżywki do rzęs i brwi","0","szt.","0","","15.90","12.93","23.0","0.00","0.00","23.0","44.90","36.50","23.0","0","15.90","12.93","23.0","1","0","0.00","0.00","23.0","1","0","15.90","12.93","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","4627089432155","","260","30380-uniw","15.90","12.93","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","20","","","https://mintishop.pl/product-pol-30380-ELEO-LABORATORIE-Pianka-do-twarzy-cera-sucha-i-wrazliwa-ELA33.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/0/8/30380_1.jpg","2019-02-19 11:12:46","","https://mintishop.pl/data/gfx/icons/large/0/8/30380.jpg","2019-02-19 10:39:58","","https://mintishop.pl/data/gfx/icons/auctions/0/8/30380.jpg","","15
+17
+18","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1","1
+1
+1
+1
+2","Kosmetyki naturalne\Pielęgnacja twarzy\Demakijaż i oczyszczanie twarzy
+Pielęgnacja\Pielęgnacja twarzy\Demakijaż i oczyszczanie
+Trendy\Kosmetyki wegańskie\Pielęgnacja twarzy
+Pielęgnacja\Pielęgnacja dopasowana do potrzeb\Skóra sucha i odwodniona
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\OCZYSZCZANIE","1336839355","ELEO LABORATORIE Pianka do twarzy cera sucha i wrażliwa ELA33","pianka do twarzy","<p>Pianka do twarzy – nawilżająca – dla suchej i wrażliwej skóry - zawiera ponad 99,5 % składników pochodzenia naturalnego. Wchodzące w skład pianki składniki – morska woda, ekstrakt aloesu, organiczny olej ze słodkich migdałów, prowitamina B5, kwas hialuronowy, proteiny pszenicy - chronią skórę przed utratą wilgoci, łagodzą podrażnienia, utrzymują optymalny poziom nawilżenia skóry, działają kojąco i przeciwzapalnie, spłycają zmarszczki, tonizują skórę, aktywizują procesy regeneracji.</p> <div class=""minti-uzycie"">Nanosimy niewielką ilość pianki na wilgotną skórę twarzy, masującymi ruchami oczyszczamy twarz, zmywamy wodą .</div> <div class=""minti-sklad"">Aqua, Glycerin, Sea Water (morska woda), Organic Aloe Barbadensis Extract (organiczny ekstrakt aloesu), Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Sodium Lauryl Sarcosinate, Maltooligosyl Glucoside/Hydrogenated Starch Hydrolysate, Panthenol (prowitamina B5), Organic Prunus Amygdalus Oil (organiczny olej ze słodkich migdałów), Hyaluronic Acid (kwas hialuronowy), Hydrolyzed Wheat Protein (proteiny pszenicy), Perfume, Benzoic Acid, Sorbic Acid, Dehydroacetic Acid, Benzyl Alcohol</div> <div class=""minti-pojemnosc"">150ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"30408","PLN","","","1402782089","Makeup Revolution","1214554046","PIELĘGNACJA CIAŁA/Balsamy, kremy, olejki","0","","0","szt.","0","","39.90","32.44","23.0","0.00","0.00","23.0","5.90","4.80","23.0","0","39.90","32.44","23.0","1","0","0.00","0.00","23.0","1","0","39.90","32.44","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5057566046954","","300","30408-uniw","39.90","32.44","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1","","","https://mintishop.pl/product-pol-30408-Makeup-Revolution-Body-Mist-Mgielka-do-ciala-Unicorn-Sparkle-236ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/8/0/30408_1.jpg","2019-02-13 13:12:28","","https://mintishop.pl/data/gfx/icons/large/8/0/30408.jpg","2019-02-13 12:28:45","","https://mintishop.pl/data/gfx/icons/auctions/8/0/30408.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","9991","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1","1
+1
+2","Pielęgnacja\Pielęgnacja ciała\Balsamy i oleje
+Trendy\Makijaż\Festiwalowy look
+TWARZ I CIAŁO\PIELĘGNACJA CIAŁA","0","Makeup Revolution Body Mist Mgiełka do ciała Unicorn Sparkle 236ml","mgiełka do ciała","<p>Mgiełka do ciała Makeup Revolution orzeźwia i nawilża skórę, pozostawiając ją gładką i wypoczętą, posiada przyjemny cytrusowy zapach. <br />Bardzo lekka formuła mgiełki sprawia, że jest ona niewyczuwalna na skórze.<br />Opakowanie z atomizerem, wygodne w użyciu, zapewnia bezproblemową aplikację.</p> <div class=""minti-pojemnosc"">236ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_equals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"30786","PLN","","","1551265971","iossi","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","0","","0","szt.","0","","98.00","79.67","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","98.00","79.67","23.0","1","0","0.00","0.00","23.0","1","0","98.00","79.67","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5907222501269","","80","30786-uniw","98.00","79.67","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","67","","","https://mintishop.pl/product-pol-30786-iossi-Witaminowy-koktajl-pod-oczy-z-retinolem-i-witaminami-A-E-C-10ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/6/8/30786_1.jpg","2019-02-27 15:31:11","","https://mintishop.pl/data/gfx/icons/large/6/8/30786.jpg","2019-02-27 13:27:39","","https://mintishop.pl/data/gfx/icons/auctions/6/8/30786.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+1
+2
+5","Kosmetyki naturalne\Pielęgnacja twarzy\Kremy pod oczy
+Pielęgnacja\Pielęgnacja twarzy\Kremy pod oczy
+Kosmetyki naturalne\Bestsellery ❤
+Trendy\Pielęgnacja\Produkty z witaminą C 
+Trendy\Pielęgnacja\W podróży 
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+OCZY\PIELĘGNACJA
+Serie\Kosmetyki naturalne","1336839486","iossi Witaminowy koktajl pod oczy z retinolem i witaminami A+E+C 10ml","krem pod oczy","<p>Jedwabiste serum pod oczy o konsystencji lekkiego olejku, intensywna kuracja do delikatnej skóry. Dogłębnie pielęgnuje, odmładza i zapobiega przyszłym zmarszczkom. Dzięki zawartości Retinolu zwanego witaminą młodości - widocznie zmniejszają się spowodowane czasem zmiany skórne. Dodatek odżywczych i lekkich olejów z pestek cytryny i herbacianego powoduje, że skóra staje się aksamitnie gładka i miękka.</p> <p>Witaminy E i C, doceniane ze względu na swoje właściwości przeciwutleniające - dodatkowo wzmacniają, ujędrniają i regenerują skórę. Serum poprawi strukturę i koloryt. Przeznaczone jest do każdego typu skóry, specjalnie zaś testowaliśmy go pod kątem cery wrażliwej.</p> <p>Działanie: przeciwzmarszczkowe, regenerujące, nawilżające, wygładzające.<br />Dla każdgo typu cery, a w szczególności dojrzałej.</p> <div class=""minti-uzycie"">Wieczorem, delikatnie wmasuj w skórę pod oczami, dookoła ust lub na szyję. Można stosować samodzielnie lub na krem. Przeciwwskazania: ze względu na zawartość retinolu nie polecamy w ciąży.</div> <div class=""minti-sklad"">Camellia Japonica Seed Oil, Citrus Limon Seed Oil, Squalane, Hydrogenated Farnesene**, Rosa Canina Seed Oil, Simmondsia Chinensis Oil, Avena Sativa Kernel Oil, Triticum Vulgare Germ Oil, Oleic/Linoleic/Linolenic Polyglycerides, Caprylic/Capric Triglyceride, Salvia Hispanica Seed Oil, Ascorbyl Tetraisopalmitate, Natural Mixed Tocopherols &amp; Helianthus Annuus Seed Oil, Hydrogenated Retinol, Salicornia Herbacea Extract, Citrus Aurantium Bergamia Peel Oil, Lavandula Angustifolia Oil, Boswellia Carterii Oil, Copaifera Reticulata Balsam Extract, Chamomilla Recutita Flower Oil, Aniba Rosaeodora Oil, Geraniol*, Limonene*, Linalool*.<br />*naturalny składnik olejków eterycznych <br />**lekki skwalan z trzciny cukrowej</div> <div class=""minti-pojemnosc"">10ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"30989","PLN","","","1529048687","Bielenda","1214554046","PIELĘGNACJA CIAŁA/Balsamy, kremy, olejki","0","","0","szt.","0","","21.90","17.80","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","21.90","17.80","23.0","1","0","0.00","0.00","23.0","1","0","21.90","17.80","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5902169034627","","190","30989-uniw","21.90","17.80","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","9","","","https://mintishop.pl/product-pol-30989-Bielenda-SKIN-LOVING-OIL-Odzywczy-olejek-do-ciala-Figa-150ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/9/8/30989_1.jpg","2019-04-04 13:21:52","","https://mintishop.pl/data/gfx/icons/large/9/8/30989.jpg","2019-04-04 13:02:41","","https://mintishop.pl/data/gfx/icons/auctions/9/8/30989.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1","1
+2","Pielęgnacja\Pielęgnacja ciała\Balsamy i oleje
+TWARZ I CIAŁO\PIELĘGNACJA CIAŁA","1336839486","Bielenda SKIN LOVING OIL Odżywczy olejek do ciała Figa 150ml","olejek do ciała","<p>Olejek do ciała idealny dla skóry wymagającej odżywienia aksamitnie rozprowadza się na skórze, pozostawiając ją satynowo gładką i jedwabiście miękką.</p> <p>Ekstrakt z figi – zawiera duże ilości minerałów oraz witamin. Za sprawą jego wyjątkowych właściwości antyoksydacyjnych skóra jest odżywiona i odporna na działanie szkodliwych czynników zewnętrznych. Przywraca skórze sprężystość i miękkość. Delikatnie natłuszcza, likwidując uczucie ściągnięcia i przesuszenia.</p> <p>Formuła została wzbogacona o olej abisyński i ekstrakt z czystka wspomagające utrzymywanie odpowiedniej kondycji skóry.</p> <div class=""minti-uzycie""> <p>Przed użyciem wstrząsnąć, następnie zaaplikować olejek na zagłębienie dłoni i rozprowadzić po wilgotnej lub suchej skórze. Pozostawić do wchłonięcia. Produkt do stosowania całorocznego.</p> </div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31519","PLN","","","1553862462","o!figa","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","4774","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Maski i peelingi do twarzy","0","szt.","0","","89.90","73.09","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","89.90","73.09","23.0","1","0","0.00","0.00","23.0","1","0","89.90","73.09","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","","","80","31519-uniw","89.90","73.09","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","1","","","https://mintishop.pl/product-pol-31519-o-figa-Serum-olejowe-do-twarzy-Dzika-Figa-20ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/9/1/31519_1.jpg
+https://mintishop.pl/data/gfx/pictures/large/9/1/31519_2.jpg","2019-03-29 14:22:51
+2019-03-29 14:22:49","","https://mintishop.pl/data/gfx/icons/large/9/1/31519.jpg","2019-03-29 13:32:19","","https://mintishop.pl/data/gfx/icons/auctions/9/1/31519.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+1
+2","Pielęgnacja\Pielęgnacja twarzy\Serum
+Trendy\Pielęgnacja\Produkty z witaminą C 
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\SERUM","1336839486","o!figa Serum olejowe do twarzy Dzika Figa 20ml","serum do twarzy","<p>Bazą kosmetyku jest wyjątkowy olej z opuncji figowej, nazywany również naturalnym botoksem. Do wyprodukowania litra oleju potrzeba około miliona pestek wydobytych z blisko pół tony owocu! Ogromna zawartość NNKT (blisko 90%!) wyróżnia ten olej na tle innych półproduktów kosmetycznych naturalnego pochodzenia i sprawia, że posiada on niezwykłe wręcz właściwości antyoksydacyjne i wygładzające. Jest również olejem całkowicie niekomedogennym, co oznacza, że doskonale nadaje się do cer problematycznych z tendencjami do wyprysków i zaskórników. Posiada również właściwości nawilżające i regenerujące.</p> <p>Kolejnym, wyjątkowym olejem w składzie „Dzikiej figi” jest olej z nasion cedru syberyjskiego. Ten bardzo trudno dostępny olej to prawdziwa bomba witaminowa: witamina F (około 70%) E, P, A i B. Doskonale sprawdza się w pielęgnacji cer problematycznych, z tendencjami do wyprysków, działa przeciwstarzeniowo i regeneracyjnie.</p> <p>Olej z owocu dzikiej róży to bardzo wysoka zawartość witaminy C i karotenoidów, ma właściwości neutralizujące przebarwienia, łagodzące oraz regenerujące.</p> <p>W oleju z lnianki siewnej, podobnie jak w oleju z opuncji figowej, występuje ogromne stężenie niezbędnych nienasyconych kwasów tłuszczowych, dzięki czemu jest prawdziwym remedium w walce ze schorzeniami skóry jak łuszczyca czy egzema. Ponadto bardzo wysoka zawartość naturalnych tokoferoli powoduje, że olej ten jest prawdziwym pogromcą wolnych rodników.</p> <p>Tetraizopalmitynian askorbylu, to najnowsza i najnowocześniejsza olejowa forma witaminy C. Charakteryzuje się wyjątkową stabilnością, niweluje przebarwienia, pobudza produkcję kolagenu i elastyny i ma silne właściwości antyoksydacyjne.</p> <p>Nadkrytyczny ekstrakt z dzikiej róży to ponadprzeciętnie wysoka zawartość witaminy A i kwasu Omega 3, doskonały w pielęgnacji cery wrażliwej.</p> <div class=""minti-uzycie"">Stosować na oczyszczoną, zwilżoną skórę. Nanieść kilka kropel na twarz, szyję oraz dekolt, polecane jest używanie kosmetyku na noc. Dla uzyskania lepszych efektów, należy produkt wmasowywać w skórę okrężnymi ruchami, a następnie pozostawić do wchłonięcia.</div> <div class=""minti-sklad"">Opuntia Ficus-Indica (Prickly Pear) Seed Oil, Pinus Sibirica Seed Oil, Rosa Canina Fruit Oil, Camelina Sativa Fruit Oil, Tocopherol, Tetrahexyldecyl Ascorbate, Rosa Canina Fruit Extract, Helianthus Annus Seed Oil, Rosmarinus Officinalis Leaf Extract.</div> <div class=""minti-pojemnosc"">20ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Feed\maj_pielegnacja
+Ilość - limit\50","1343136042
+1343136055
+1343136078","stan
+Feed
+Ilość - limit","
+
+","0
+2
+3","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136055
+1343136078","1343136043
+1343137498
+1343136079","nowy
+maj_pielegnacja
+50","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31648","PLN","","","1529324012","Derma","1214554046","PIELĘGNACJA CIAŁA/Balsamy, kremy, olejki","0","","0","szt.","0","","59.90","48.70","23.0","0.00","0.00","23.0","12.99","10.56","23.0","0","59.90","48.70","23.0","1","0","0.00","0.00","23.0","1","0","59.90","48.70","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5709954034202","","110","31648-uniw","59.90","48.70","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","3","","","https://mintishop.pl/product-pol-31648-Derma-Sun-Balsam-przeciwsloneczny-SPF50-100ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/8/4/31648_1.jpg","2019-04-10 13:22:08","","https://mintishop.pl/data/gfx/icons/large/8/4/31648.jpg","2019-04-10 12:23:01","","https://mintishop.pl/data/gfx/icons/auctions/8/4/31648.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+2
+2","Pielęgnacja\Pielęgnacja ciała\Balsamy i oleje
+Pielęgnacja\Pielęgnacja ciała\Ochrona przeciwsłoneczna
+Lato\Pielęgnacja ciała\Ochrona przeciwsłoneczna
+Sale\Pielęgnacja\Ochrona przeciwsłoneczna
+Trendy\Pielęgnacja\Ochrona przed słońcem 
+TWARZ I CIAŁO\PIELĘGNACJA CIAŁA
+Sale/outlet\Pielęgnacja\Ochrona przeciwsłoneczna","0","Derma Sun Balsam przeciwsłoneczny SPF50 100ml","krem przeciwsłoneczny","<p>Derma Sun Balsam słoneczny SPF 50 – to bardzo wysoka ochrona przed promieniami UVA i UVB dla osób z wrażliwą skórą, skłonnością do alergii i AZS. NIE ZAWIERA FILTÓW PRZENIKAJĄCYCH! To wysoce wodoodporny i hipoalergiczny produkt. Zapewnia on ochronę przed promieniami, zgodną z najnowszymi zaleceniami Unii Europejskiej dotyczącymi optymalnej ochrony przeciwsłonecznej. Produkt łatwo się wchłania, a skóra po jego użyciu jest miękka, delikatna i chroniona przed przesuszeniem. Bez substancji zapachowych, parabenów ani barwników, co minimalizuje ryzyko wystąpienia alergii i reakcji skórnych.</p> <p>Produkt otrzymał, aż cztery certyfikaty, które są gwarancją bezpieczeństwa i najwyższej jakości:<br />Asthma-Allergy Denmark i Allergy Certified - dla certyfikowanych produktów hipoalergicznych, wolnych od alergenów i jakichkolwiek szkodliwych substancji. Bez zapachów, bez barwników, bez parabenów. <br />Nordic Ecolabel – dla certyfikowanych produktów przyjaznych środowisku i nie testowanych na zwierzętach.</p> <div class=""minti-uzycie"">Zaaplikuj sporą ilość na skórę twarzy i ciała przed ekspozycją na promienie słoneczne. Powtarzać aplikację po wyjściu z wody. Przed założeniem ubrania należy poczekać, aż balsam całkowicie się wchłonie.</div> <div class=""minti-sklad"">Aqua, Dibutyl Adipate, Aloe Barbadensis Leaf Extract, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Distarch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Glyceryl Stearate, Glycerin, Ceteareth-20, Saccharide Isomerate, Tocopheryl Acetate, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Polymethyl Methacrylate, Sodium Laureth Sulfate, Aminomethyl Propanol, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid</div> <div class=""minti-pojemnosc"">100ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31793","PLN","","","1556258747","LIQPHARM","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","4742","Zdrowie i uroda > Higiena osobista > Kosmetyki > Makijaż > Makijaż oka > Odżywki do rzęs i brwi","0","szt.","0","","59.90","48.70","23.0","0.00","0.00","23.0","44.90","36.50","23.0","0","59.90","48.70","23.0","1","0","0.00","0.00","23.0","1","0","59.90","48.70","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5904730276030","","50","31793-uniw","59.90","48.70","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","26","","","https://mintishop.pl/product-pol-31793--LIQ-CC-LIGHT-15-VITAMIN-C-BOOST-Lekkie-serum-rozswietlajace-z-witamina-C-30-ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/3/9/31793_1.jpg","2019-04-26 08:22:26","","https://mintishop.pl/data/gfx/icons/large/3/9/31793.jpg","2019-04-26 08:20:41","","https://mintishop.pl/data/gfx/icons/auctions/3/9/31793.jpg","","15
+17
+18","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","999","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+1
+2","Pielęgnacja\Pielęgnacja twarzy\Serum
+Trendy\Pielęgnacja\Produkty z witaminą C 
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\KREMY DO TWARZY","1336839355","  LIQ CC LIGHT 15% VITAMIN C BOOST Lekkie serum rozświetlające z witaminą C - 30 ml","serum do twarzy","<p>Serum LIQ CC Light dzięki wysokim stężeniom aktywnych składników redukuje proces starzenia się skóry oraz chroni przed działaniem niekorzystnych czynników środowiskowych. 15% witaminy C zapewnia szybkie pobudzenie syntezy kolagenu, skutecznie neutralizuje wpływ wolnych rodników i wyrównuje koloryt skóry. Aktywność czystej, niezjonizowanej formy witaminy C potęgowana jest przez odpowiednio dobrane stężenia tokoferolu i magnezu, które jednocześnie działają ochronnie, regenerująco oraz odżywczo. Dzień po dniu skóra odzyskuje utracony komfort, blask i witalność.</p> <p>Wskazania:</p> <p>Lekka postać serum LIQ CC wskazana jest dla cery normalnej i mieszanej. Do pielęgnacji na dzień i na noc dla skóry dojrzałej i młodej.</p> <p>Dzięki zastosowaniu niezjonizowanej, aktywnej formy kwasu L-askorbinowego, serum LIQ CC Light można stosować 365 dni w roku. Niskie pH gwarantuje przenikanie witaminy C do głębokich warstw skóry. Serum wskazane zarówno przed, jak i po ekspozycji na promieniowanie słoneczne.</p> <p>Korzyści:</p> <p>Sprawdź nieocenioną moc 15% witaminy C:</p> <p>• ochrona antyoksydacyjna</p> <p>• pobudzenie syntezy kolagenu</p> <p>• program przeciwzmarszczkowy</p> <p>• program redukujący przebarwienia</p> <p>• program „blask i witalność”</p>  <p>Składniki aktywne:</p> <p>Witamina C (15% - 4800 mg) - aktywny kwas L-askorbinowy w formie niezjonizowanej zapewnia łatwość przenikania we wszystkie warstwy skóry pobudzając syntezę kolagenu, wyrównując koloryt i rozświetlając cerę. Redukuje szkodliwy wpływ promieniowania UV, pomagając chronić DNA komórek skóry.</p> <p>Tokoferol - witamina E - wzmocnienie ochrony antyoksydacyjnej</p> <p>Magnez - zapewnia silne działanie regeneracyjne</p>  <div class=""minti-uzycie"">DZIEŃ i NOC <p>Jedna pipeta na aplikację (twarz, szyja i dekolt). Wstrząsnąć przed użyciem. Stosować rano i/lub wieczorem na oczyszczoną skórę twarzy i szyi. Można stosować pod krem przez cały rok lub jako kurację 28-dniową.</p> <p>Ze względu na niskie pH(<3.2) dermokosmetyków z gamy LIQC Dermocosmetics należy zachować ostrożność przy aplikacji w okolicach oczu. Przedostanie się serum do spojówki oka może powodować przejściowe odczucie pieczenia. Zachowanie odległości powyżej 0,5 cm od spojówki jest wystarczające i jednocześnie pozwala osiągnąć efekty przeciwstarzeniowe serum LIQ CC. Doskonała baza pod makijaż.</p> <p>Uwagi</p> <p>Produkt przebadany dermatologicznie. Nie testujemy naszych produktów na zwierzętach. Bez substancji zapachowych i barwników. Do stosowania wyłącznie przez osoby dorosłe. Trzymać poza zasięgiem dzieci. Wyłącznie do użytku zewnętrznego. Zużyć w przeciągu 3 miesięcy od otwarcia. Przechowywać poniżej 25°C - dla zwiększenia trwałości przechowywać w lodówce.</p> <p>LIQ CC Serum Light ze względu na zawartość kwasu L-askorbinowego, posiada barwę od przezroczysto-biąłej (od 0 do 4. miesiąca od daty produkcji) do jasno-słomkowej (od ok 5. do 12. miesiąca od daty produkcji). Właściwości aktywnej witaminy C utrzymują się przez cały okres ważności kosmetyku (skrócony do 12 miesięcy). Produkty nie posiadają w składzie sztucznych barwników maskujących, dlatego mogą wykazywać subtelne zmiany w kolorze.</div> <div class=""minti-sklad"">Propylene Glycol, Aqua (Water), L-Ascorbic Acid, Sodium Hyaluronate, Tocopheryl Acetate, Magnesium Sulfate, Polysorbate 20, Methylparaben, Propylparaben  </div> <div class=""minti-pojemnosc"">30ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31798","PLN","","","1445000880","Resibo","1214554040","PIELĘGNACJA TWARZY/Maski","4742","Zdrowie i uroda > Higiena osobista > Kosmetyki > Makijaż > Makijaż oka > Odżywki do rzęs i brwi","0","szt.","0","","119.00","96.75","23.0","0.00","0.00","23.0","44.90","36.50","23.0","0","119.00","96.75","23.0","1","0","0.00","0.00","23.0","1","0","119.00","96.75","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5904730627634","","90","31798-uniw","119.00","96.75","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","72","","","https://mintishop.pl/product-pol-31798-Resibo-Blyskawiczna-maseczka-upiekszajaca-75-ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/8/9/31798_1.jpg","2019-04-26 10:31:55","","https://mintishop.pl/data/gfx/icons/large/8/9/31798.jpg","2019-04-26 09:32:55","","https://mintishop.pl/data/gfx/icons/auctions/8/9/31798.jpg","","15
+17
+18","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","1","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1
+1
+1","1
+1
+1
+1
+1
+2
+2","Kosmetyki naturalne\Pielęgnacja twarzy\Maski do twarzy
+Pielęgnacja\Pielęgnacja twarzy\Kremy i olejki do twarzy
+Pielęgnacja\Pielęgnacja twarzy\Maski
+Lato\Kosmetyczka na lato
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\KREMY DO TWARZY
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\MASKI","1336839355","Resibo Błyskawiczna maseczka upiększająca 75 ml","maska do twarzy","<p>Instant Beauty Mask daje natychmiastowy, a co najważniejsze – długotrwały efekt ujędrniający i wypełniający, a jednocześnie w widoczny sposób zmniejsza zmarszczki. Skóra od razu odzyskuje zdrowy koloryt i blask, staje się promienna i wygląda wyraźnie młodziej. Ponadto maska działa silnie przeciwstarzeniowo i regenerująco. Bardzo mocno nawilża i odżywia skórę. Równocześnie chroni przed utratą wody.</p> <p>Dla wszystkich, których skóra twarzy wymaga intensywnej regeneracji, szczególnie dla osób z cerą przemęczoną, suchą, dojrzałą, prowadzących nieregularny i wyczerpujący tryb życia. I dla każdego, kto potrzebuje silnego wsparcia skóry przed tzw. wielkim wyjściem.</p> <div class=""minti-uzycie"">Nałóż grubszą warstwę maski równomiernie na twarz. Pozostaw na skórze na 20-30 minut, po czym zmyj dokładnie ciepłą wodą. Następnie wklep tonik i najlepiej od razu nałóż serum lub krem. Dla dogłębnej regeneracji skóry i liftingu maskę możesz również pozostawić na noc – nałóż ją wtedy cieńszą warstwą.</div> <div class=""minti-sklad"">Aqua, Isoamyl Laurate*, Glycerin, Propanediol, Cichorium Intybus Root Oligosaccharides, Meadowfoam Estolide*, Polyglyceryl-2 Stearate*, Butyrospermum Parkii Butter, Garcinia Indica Seed Butter, Triticum Vulgare Germ Oil, Trehalose*, Propanediol Dicaprylate*, Cetearyl Alcohol, Hippophae Rhamnoides Fruit Oil, Glyceryl Stearate*, Stearyl Alcohol*, Ascorbyl Tetraisopalmitate, Alpha-Glucan Oligosaccharide*, Sodium Hyaluronate*, Rheum Rhaponticum Root Extract, Helianthus Annus Seed Oil, Tocopherol, Sodium Phytate*, Caesalpinia Spinosa Gum, Xanthan Gum*, Benzyl Alcohol, Dehydroacetic Acid, Sodium Benzoate, Gluconolactone, Calcium Gluconate, Parfum, Sodium Hydroxide, Limonene *składniki certyfikowane</div> <div class=""minti-pojemnosc"">75ml</div>","","","","","","","","","","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31847","PLN","","","1556631014","Eco by Sonya","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","0","","0","szt.","0","","144.90","117.80","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","144.90","117.80","23.0","1","0","0.00","0.00","23.0","1","0","144.90","117.80","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","9347597000183","","220","31847-uniw","144.90","117.80","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","10","","","https://mintishop.pl/product-pol-31847-Eco-by-Sonya-Face-Tan-Water-Samoopalacz-do-twarzy-100ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/7/4/31847_1.jpg","2019-05-06 10:28:12","","https://mintishop.pl/data/gfx/icons/large/7/4/31847.jpg","2019-05-06 09:56:34","","https://mintishop.pl/data/gfx/icons/auctions/7/4/31847.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1","1
+1
+1
+1","Pielęgnacja\Pielęgnacja twarzy\Toniki
+Pielęgnacja\Bestsellery ❤
+Trendy\Pielęgnacja\Zdrowa opalenizna
+Pielęgnacja\Pielęgnacja twarzy\Samoopalacze","1336839486","Eco by Sonya Face Tan Water Samoopalacz do twarzy 100ml","samoopalacz do twarzy","<p>Certyfikowany, ekologiczny samoopalacz do twarzy w płynie - pomoże budować stopniowo, naturalnie wyglądającą opaleniznę, wyrównuje koloryt twarzy, dodając jej blasku. W pielęgnacji twarzy może spełniać rolę toniku lub balsamu dodatkowo pielęgnującego i odżywiającego skórę twarzy.</p> <p>Już po dwóch aplikacjach dostrzegalny będzie delikatny brązowy odcień cery - uzyska naturalny blask, wyrówna się jej koloryt - jak po delikatnym muśnięciu słońca.</p> <p>Bezpieczny i naturalny: zawiera wyłącznie składniki naturalne i organiczne, dodatkowo jego formuła pozwala na skuteczną pielęgnację chroniącą skórę przed starzeniem się. Nie zatyka porów, działa przeciwtrądzikowo - nawilża i dba o cerę dając doskonały pielęgnacyjny efekt. Bogaty w witaminę C nadającą skórze blask i jaśniejszy wygląd, nie zawiera sztucznych barwników i toksycznych barwników pomarańczowych.</p> <p>Polecany w pielęgnacji skóry tłustej, trądzikowej i wrażliwej.</p> <div class=""minti-uzycie"">Nałożyć na przygotowaną, oczyszczoną skórę twarzy niewielką dawkę za pomocą wacika.</div> <div class=""minti-sklad"">Aloe Barbadensis (Aloe Vera) Leaf Juice* Glycerin*, Dihydroxyacetone**, Lecithin*, Fusel Wheat Bran/Straw Glycosides**, Polyglyceryl-5 Oleate**, Sodium Cocoyl Glutamate**, Glyceryl, Caprylate**, Coco Caprylate**, Sodium Hyaluronate**, Dehydroxanthan Gum**, Leuconostoc/Radish Root Ferment Filtrate**, Pelargonium graveolens Flower Oil*, Citrus Aurantium Dulcis (Orange) Peel Oil*<br /><br />*Certified Organic **Natural</div> <div class=""minti-pojemnosc"">100ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Ilość - limit\50
+Feed\maj_pielegnacja","1343136042
+1343136078
+1343136055","stan
+Ilość - limit
+Feed","
+
+","0
+1
+2","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136078
+1343136055","1343136043
+1343136079
+1343137498","nowy
+50
+maj_pielegnacja","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
+"31913","PLN","","","1557313241","Samarite","1214554038","PIELĘGNACJA TWARZY/Kremy, serum, emulsje","4774","Zdrowie i uroda > Higiena osobista > Kosmetyki > Pielęgnacja skóry > Maski i peelingi do twarzy","0","szt.","0","","129.90","105.61","23.0","0.00","0.00","23.0","17.60","14.31","23.0","0","129.90","105.61","23.0","1","0","0.00","0.00","23.0","1","0","129.90","105.61","23.0","1","0","0.00","0.00","23.0","1","73","","","","","","","","","uniw","uniwersalny","5906721183013","","130","31913-uniw","129.90","105.61","23.0","0.00","0.00","23.0","0.00","0.00","0.00","0.00","uniw","1","24","","","https://mintishop.pl/product-pol-31913-Samarite-Divine-Cream-Odmladzajacy-krem-do-twarzy-45ml.html","deliverer","0","yes","https://mintishop.pl/data/gfx/pictures/large/3/1/31913_1.jpg","2019-05-08 14:28:21","","https://mintishop.pl/data/gfx/icons/large/3/1/31913.jpg","2019-05-08 14:23:03","","https://mintishop.pl/data/gfx/icons/auctions/3/1/31913.jpg","","","","","","","yes","no","no","no","no","1","no","no","no","no","no","yes","","1","stock","1
+1
+1
+1","count_cost
+count_cost
+client_award
+client_award","retailers
+wholesalers
+retailers
+wholesalers","0
+0
+0
+0","","8","1","1","1","yes","yes","1","yes","","","","","","","","","","","","","","","","","","","","1
+1
+1
+1
+1","1
+1
+1
+1
+2","Pielęgnacja\Pielęgnacja twarzy\Kremy i olejki do twarzy
+Lato\Pielęgnacja twarzy\Nawilżanie
+Pielęgnacja\Pielęgnacja dopasowana do potrzeb\Skóra sucha i odwodniona
+Prezenty\Przewodnik prezentowy\Dzień Mamy
+TWARZ I CIAŁO\PIELĘGNACJA TWARZY\KREMY DO TWARZY","1336839486","Samarite Divine Cream Odmładzający krem do twarzy 45ml","krem do twarzy","<p>Nie zawiera olejów, przez co może być stosowany przez cery normalne, wymagające: od suchych po mieszane, a nawet tłuste i wrażliwe.</p> <p>Rekomendowany dla skóry wymagającej rewitalizacji, widocznego odmłodzenia, zagęszczenia, zmagającej się ze zmarszczkami, suchością, przebarwieniami, trądzikiem- także różowatym, naczynkami, podrażnieniami, zwiotczeniami.</p> <p>Skóry normalnej, suchej, mieszanej, tłustej wrażliwej, naczynkowej.<br />Krem dla wieku: 20+, 30+, 40+, 50+, 60+.<br />Krem na dzień i na noc.<br />Idealnie sprawdza się jako krem nawilżający i przeciwzmarszczkowy.</p> <div class=""minti-uzycie""> <p>Rozprowadź krem na oczyszczonej skórze twarzy, na okolice oczu, szyi i dekoltu. W zależności od potrzeb skóry krem możesz stosować:<br />Raz dziennie – na dzień lub na noc.<br />W duecie: eliksir i krem. Wmasuj go w skórę, poczekaj do wchłonięcia a następnie zaaplikuj krem.<br />Dwa razy dziennie – rano i wieczorem, jeśli Twoja skóra potrzebuje bardzo dużej dawki nawilżenia.</p> </div> <div class=""minti-sklad"">Purified Water, Glycerin, Isononyl Isononanoate, Niacinamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Octyldodecanol, Isostearyl Isostearate, Saccharomyces Ferment Filtrate, Xylitylglucoside, Anhydroxylitol, Xylitol, Troxerutin, Sodium Hyaluronate Crosspolymer,Polyglyceryl-4, Diisostearate/Polyhydroxystearate/Sebacate, Sodium Isostearate, Ethylhexyl Stearate, Arnica Montana Flower Extract, Hedera Helix Leaf Extract, Stachys Officinalis Extract, Humulus Lupulus Cone Extract, Cochlearia Armoracia Root Extract, Cinnamomum Casia Bark Extract, Quercus Robur Bark Extract, Rosa Canina Fruit Extract, Paullinia Cupana Fruit Extract, Zingiber Officinale Root Extract, Echinacea Purpurea Root Extract, Elettaria Cardamomum Seed Extract, Achillea Millefolium Leaf Extract, Lavandula Officinalis Flower Extract, Medicago Sativa Leaf Extract, Mentha Piperita Leaf Extract, Melilotus Officinalis Herb Extract, Capsicum Frutescens Fruit Extract, Potentilla Erecta Root Extract, Rosmarinus Officinalis Leaf Extract, Salvia Officinalis Leaf Extract, Scutellaria Baicalensis Root Extract, Acorus Calamus Root Extract, Thymus Vulgaris Leaf Extract, Symphytum Officinale Root Extract, Propylene Glycol, Caprylic/Capric Triglyceride, Vanilla Planifolia Fruit Extract, Dipteryx Odorata Seed Extract, Citrus Auranitum Bergamia Fruit Extract, Cinnamomum Zeylanicum Bark Extract, Thymus Vulgaris Flower/Leaf Extract, Eugenia Caryophyllus Flower Extract, Citrus Aurantifolia Peel Extract, Jasminum Officinale Flower/Leaf Extract, Rosa Damascena Flower Extract, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Polysorbate 60, Sorbitan Isostearate, Lactic Acid, Phenoxyethanol, Ethylhexylglycerin, Cinnamal, Coumarin, Eugenol, Limonene.</div> <div class=""minti-pojemnosc"">45ml</div>","","","","","","","","","<p>Pędzel</p>","","","","","","","stan\nowy
+Feed\maj_pielegnacja
+Ilość - limit\50","1343136042
+1343136055
+1343136078","stan
+Feed
+Ilość - limit","
+
+","0
+2
+3","parameter
+parameter
+parameter","n
+n
+n","n
+n
+n","n
+n
+n","n
+n
+n","1343136042
+1343136055
+1343136078","1343136043
+1343137498
+1343136079","nowy
+maj_pielegnacja
+50","
+
+","0
+0
+0","competitive_prices","0","","wholesale_notequals_retail","1","pos_notequals_retail","1","","","","","","","","","",""
